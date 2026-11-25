@@ -1,0 +1,6 @@
+
+# Require the repository owner to review all changes
+* @BusiswaZ
+
+# Protect the CODEOWNERS file itself
+/.github/CODEOWNERS @BusiswaZ
